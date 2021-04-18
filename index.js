@@ -12,4 +12,5 @@ var button0 = document.getElementsByTagName("0")
 
 function fireButton() {
     document.getElementsById("")
+    print("ergegrihiu")
 }
